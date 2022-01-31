@@ -1,0 +1,15 @@
+.main-div {
+  background-color: cornsilk;
+  height: 70%;
+  width: 50%;
+  box-shadow: 0 0 0.7142857142857143rem #cccccc;
+  border-radius: 2%;
+  position: relative;
+  margin: auto;
+  margin-top: 25px;
+  padding: 15px 15px 15px 15px;
+}
+
+.navbar {
+  justify-content: space-between;
+}
